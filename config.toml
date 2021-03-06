@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Hugo Hermit"
+title = "Sean's Hugo Test 🎊"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
